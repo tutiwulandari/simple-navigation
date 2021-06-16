@@ -1,5 +1,5 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import { View, Text , StyleSheet} from 'react-native'
 
 const AnotherScreen = () => {
     return (
@@ -19,4 +19,4 @@ const styles = StyleSheet.create({
     },
   });
 
-export default AnotherScreen
+export default AnotherScreen;
